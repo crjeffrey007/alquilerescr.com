@@ -11,7 +11,7 @@ const Header = () => {
                             <div className="d-flex align-items-center">
                             <i className="fas fa-home"></i>
                                 <span className="ms-2">
-                                    MB
+                                    Corlands
                            </span>
                             </div>
                         </Link>
@@ -32,9 +32,9 @@ const Header = () => {
                                 <li className="nav-item">
                                     <Link className="nav-link" to="#">Category <i className="fas fa-chevron-down"></i></Link>
                                     <ul className="sub-ul">
-                                        <li><Link to="#">item</Link></li>
-                                        <li><Link to="#">item</Link></li>
-                                        <li><Link to="#">item</Link></li>
+                                        <li><Link to="#">Find Agent</Link></li>
+                                        <li><Link to="#">Home Loan Calculator</Link></li>
+                                        <li><Link to="#">News</Link></li>
                                     </ul>
                                 </li>
                                 <li className="nav-item">
